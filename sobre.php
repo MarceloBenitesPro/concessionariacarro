@@ -17,18 +17,18 @@
             </div><!--logo-->
             <nav class="desktop">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a  href="venda.html">Venda</a></li>
-                    <li><a style="color:#EB2D2D;" href="sobre.html">Sobre</a></li>
-                    <li><a href="/front-end-projetos/projeto-veículos/?contato">Contato</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a  href="venda.php">Venda</a></li>
+                    <li><a style="color:#EB2D2D;" href="sobre.php">Sobre</a></li>
+                    <li><a href="/?contato">Contato</a></li>
                 </ul>
             </nav><!--desktop-->
             <nav class="mobile">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a href="venda.html">Venda</a></li>
-                    <li><a  style="color:#EB2D2D;" href="sobre.html">Sobre</a></li>
-                    <li><a href="/front-end-projetos/projeto-veículos/?contato">Contato</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a href="venda.php">Venda</a></li>
+                    <li><a  style="color:#EB2D2D;" href="sobre.php">Sobre</a></li>
+                    <li><a href="/?contato">Contato</a></li>
                 </ul>
             </nav><!---mobile-->
             <div class="clear"></div>
@@ -59,10 +59,10 @@
         <div class="container">
             <nav class="desktop">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a  href="venda.html">Venda</a></li>
-                    <li><a style="color:#EB2D2D;" href="sobre.html">Sobre</a></li>
-                    <li><a href="/front-end-projetos/projeto-veículos/?contato">Contato</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a  href="venda.php">Venda</a></li>
+                    <li><a style="color:#EB2D2D;" href="sobre.php">Sobre</a></li>
+                    <li><a href="/?contato">Contato</a></li>
                 </ul>
             </nav><!--desktop-->
             <p>Todos os direitor reservados</p>

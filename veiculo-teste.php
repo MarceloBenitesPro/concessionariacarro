@@ -15,17 +15,17 @@
             </div><!--logo-->
             <nav class="desktop">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a style="color:#EB2D2D;" href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
                     <li><a goto="contato" href="">Contato</a></li>
                 </ul>
             </nav><!--desktop-->
             <nav class="mobile">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a style="color:#EB2D2D;" href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
                     <li><a goto="contato" href="">Contato</a></li>
                 </ul>
             </nav><!---mobile-->
@@ -40,9 +40,9 @@
         </div><!---line-titulo-->
             <div class="container">
                 <div class="info-veiculo">
-                    <div class="info-bread"><a href="index.html">HOME</a><span>></span>
-                        <a href="venda.html">VENDA</a><span>></span>
-                        <a href="veiculo-teste.html">VEÍCULO DE TESTE</a></div>
+                    <div class="info-bread"><a href="index.php">HOME</a><span>></span>
+                        <a href="venda.php">VENDA</a><span>></span>
+                        <a href="veiculo-teste.php">VEÍCULO DE TESTE</a></div>
                     <div class="foto-destaque"></div>
                         <div class="nav-galeria-parent">
                             <div class="arrow-left-nav"></div>
@@ -142,9 +142,9 @@
         <div class="container">
             <nav class="desktop">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a style="color:#EB2D2D;" href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
                     <li><a goto="contato" href="">Contato</a></li>
                 </ul>
             </nav><!--desktop-->

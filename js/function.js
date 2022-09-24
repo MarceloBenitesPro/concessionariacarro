@@ -140,7 +140,7 @@ $(function(){
                    Clicar car e ir para a div de contato com base no atributo goto
                 */
 
-                   var directory = '/front-end-projetos/projeto-veículos/'
+                   var directory = '/'
        
                    $('[goto=contato]').click(function(){
                        location.href=directory+'?contato';

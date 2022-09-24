@@ -15,18 +15,18 @@
             </div><!--logo-->
             <nav class="desktop">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
-                    <li><a href="">Contato</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a style="color:#EB2D2D;" href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
+                    <li><a href="/?contato">Contato</a></li>
                 </ul>
             </nav><!--desktop-->
             <nav class="mobile">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
-                    <li><a href="">Contato</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a style="color:#EB2D2D;" href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
+                    <li><a href="/?contato">Contato</a></li>
                 </ul>
             </nav><!---mobile-->
             <div class="clear"></div>
@@ -99,7 +99,31 @@
                                 <div class="info-carro">
                                     <h2>Volkswagem Karmam-ghia</h2>
                                     <p>1.6 8v, Gasolina, 2P, Manual1969</p>
-                                    <a class="btn1" href="veiculo-teste.html">Mais Detalhes</a>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
+                                </div><!--info-carro-->
+                            </div><!--vitrine-destaque-->
+                            <div class="vitrine-destaque">
+                                <div style="background-image: url('imagens/car1.png');" class="carro-img"></div><!--carro-img-->
+                                <div class="info-carro">
+                                    <h2>Opala-1955</h2>
+                                    <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
+                                </div><!--info-carro-->
+                            </div><!--vitrine-destaque-->
+                            <div class="vitrine-destaque">
+                                <div style="background-image: url('imagens/car2.png');" class="carro-img"></div><!--carro-img-->
+                                <div class="info-carro">
+                                    <h2>Opala-1955</h2>
+                                    <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
+                                </div><!--info-carro-->
+                            </div><!--vitrine-destaque-->
+                            <div class="vitrine-destaque">
+                                <div style="background-image: url('imagens/carro1.jpg');" class="carro-img"></div><!--carro-img-->
+                                <div class="info-carro">
+                                    <h2>Volkswagem Karmam-ghia</h2>
+                                    <p>1.6 8v, Gasolina, 2P, Manual1969</p>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                                 </div><!--info-carro-->
                             </div><!--vitrine-destaque-->
                             <div class="vitrine-destaque">
@@ -115,7 +139,7 @@
                                 <div class="info-carro">
                                     <h2>Opala-1955</h2>
                                     <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
-                                    <a class="btn1" href="">Mais Detalhes</a>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                                 </div><!--info-carro-->
                             </div><!--vitrine-destaque-->
                             <div class="vitrine-destaque">
@@ -123,7 +147,7 @@
                                 <div class="info-carro">
                                     <h2>Volkswagem Karmam-ghia</h2>
                                     <p>1.6 8v, Gasolina, 2P, Manual1969</p>
-                                    <a class="btn1" href="veiculo-teste.html">Mais Detalhes</a>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                                 </div><!--info-carro-->
                             </div><!--vitrine-destaque-->
                             <div class="vitrine-destaque">
@@ -131,31 +155,7 @@
                                 <div class="info-carro">
                                     <h2>Opala-1955</h2>
                                     <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
-                                    <a class="btn1" href="">Mais Detalhes</a>
-                                </div><!--info-carro-->
-                            </div><!--vitrine-destaque-->
-                            <div class="vitrine-destaque">
-                                <div style="background-image: url('imagens/car2.png');" class="carro-img"></div><!--carro-img-->
-                                <div class="info-carro">
-                                    <h2>Opala-1955</h2>
-                                    <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
-                                    <a class="btn1" href="">Mais Detalhes</a>
-                                </div><!--info-carro-->
-                            </div><!--vitrine-destaque-->
-                            <div class="vitrine-destaque">
-                                <div style="background-image: url('imagens/carro1.jpg');" class="carro-img"></div><!--carro-img-->
-                                <div class="info-carro">
-                                    <h2>Volkswagem Karmam-ghia</h2>
-                                    <p>1.6 8v, Gasolina, 2P, Manual1969</p>
-                                    <a class="btn1" href="veiculo-teste.html">Mais Detalhes</a>
-                                </div><!--info-carro-->
-                            </div><!--vitrine-destaque-->
-                            <div class="vitrine-destaque">
-                                <div style="background-image: url('imagens/car1.png');" class="carro-img"></div><!--carro-img-->
-                                <div class="info-carro">
-                                    <h2>Opala-1955</h2>
-                                    <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
-                                    <a class="btn1" href="">Mais Detalhes</a>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                                 </div><!--info-carro-->
                             </div><!--vitrine-destaque-->
                             <div class="vitrine-destaque">
@@ -163,7 +163,7 @@
                                 <div class="info-carro">
                                     <h2> Opala -1955- versão cross</h2>
                                     <p>1.6 8v, Gasolina, 2P, Manual2022</p>
-                                    <a class="btn1" href="veiculo-teste.html">Mais Detalhes</a>
+                                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                                 </div><!--info-carro-->
                             </div><!--vitrine-destaque-->
                         </div><!---vitrine-venda-->
@@ -178,10 +178,10 @@
         <div class="container">
             <nav class="desktop">
                 <ul>
-                    <li><a  href="index.html">Home</a></li>
-                    <li><a style="color:#EB2D2D;" href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
-                    <li><a href="">Contato</a></li>
+                    <li><a  href="index.php">Home</a></li>
+                    <li><a style="color:#EB2D2D;" href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
+                    <li><a href="/?contato">Contato</a></li>
                 </ul>
             </nav><!--desktop-->
             <p>Todos os direitor reservados</p>

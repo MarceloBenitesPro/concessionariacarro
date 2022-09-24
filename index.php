@@ -17,17 +17,17 @@
             </div><!--logo-->
             <nav class="desktop">
                 <ul>
-                    <li><a style="color:#EB2D2D;" href="index.html">Home</a></li>
-                    <li><a href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a style="color:#EB2D2D;" href="index.php">Home</a></li>
+                    <li><a href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
                     <li><a goto="contato" href="">Contato</a></li>
                 </ul>
             </nav><!--desktop-->
             <nav class="mobile">
                 <ul>
-                    <li><a style="color:#EB2D2D;" href="index.html">Home</a></li>
-                    <li><a href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a style="color:#EB2D2D;" href="index.php">Home</a></li>
+                    <li><a href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
                     <li><a goto="contato" href="">Contato</a></li>
                 </ul>
             </nav><!---mobile-->
@@ -56,7 +56,7 @@
                 <div class="info-carro">
                     <h2>Volkswagem Karmam-ghia</h2>
                     <p>1.6 8v, Gasolina, 2P, Manual1969</p>
-                    <a class="btn1" href="veiculo-teste.html">Mais Detalhes</a>
+                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                 </div><!--info-carro-->
             </div><!--vitrine-destaque-->
             <div class="vitrine-destaque">
@@ -64,7 +64,7 @@
                 <div class="info-carro">
                     <h2>Opala-1955</h2>
                     <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
-                    <a class="btn1" href="">Mais Detalhes</a>
+                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                 </div><!--info-carro-->
             </div><!--vitrine-destaque-->
             <div class="vitrine-destaque">
@@ -72,7 +72,7 @@
                 <div class="info-carro">
                     <h2>Opala-1955</h2>
                     <p> Gasolina, 1.0 12V de 80 cv , Manual 1.6 16V </p>
-                    <a class="btn1" href="">Mais Detalhes</a>
+                    <a class="btn1" href="veiculo-teste.php">Mais Detalhes</a>
                 </div><!--info-carro-->
             </div><!--vitrine-destaque-->
             <div class="clear"></div>
@@ -89,7 +89,7 @@
                     <li>Comunicação</li>
                     <li>Indicação de mecânica e peças</li>
                 </ul>
-             <a class="btn1" href="">Saiba Mais</a>
+             <a class="btn1" href="sobre.php">Saiba Mais</a>
             </div><!---half1-wraper-->
         </div><!--half1-->
         <div class="half2">
@@ -157,9 +157,9 @@
         <div class="container">
             <nav class="desktop">
                 <ul>
-                    <li><a style="color:#EB2D2D;" href="index.html">Home</a></li>
-                    <li><a href="venda.html">Venda</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a style="color:#EB2D2D;" href="index.php">Home</a></li>
+                    <li><a href="venda.php">Venda</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
                     <li><a goto="contato" href="">Contato</a></li>
                 </ul>
             </nav><!--desktop-->
